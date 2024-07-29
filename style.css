@@ -1,0 +1,43 @@
+html{
+  background-color:#222528 ;
+}
+
+*{
+  background-color: #222528;
+}
+
+
+
+#p1{
+  background-color: #222528;
+  text-align: left;
+  font-size: 40px;
+  color: white;
+  margin: 0;
+}
+
+#p2{
+  color: white;
+  font-size: 25px;
+  background-color: #222528;
+  text-align: left;
+   margin: 0;
+}
+
+#p3{
+  background-color: #222528;
+  text-align: right;
+   margin: 0;
+  color: white;
+}
+i{
+  text-align: right;
+}
+
+
+
+img{
+
+  height: 180px;
+  width: 1450px;
+}
