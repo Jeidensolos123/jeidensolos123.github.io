@@ -59,3 +59,100 @@ img{
   }
 
 
+  footer #bottom-footer{
+  background: none repeat scroll 0 0 #FFFFFF;
+  color: #000000;
+  border-top: 5px solid #F80000;
+  text-align: left;
+  padding: 9px;
+  font-size: 13px;
+  }
+  .footer-wrap a{
+  color:#000000;
+  }
+  .footer-wrap a:hover{
+  color:#F80000;
+  }
+  .footer-logo a {
+  margin-bottom: 6px;
+  display: block;
+  }
+  .footer-socials {
+  float: left;
+  line-height: 0px;
+  }
+  .footer-socials a {
+  border-radius: 100%;
+  color: #ffffff;
+  display: inline-block;
+  font-size: 14px;
+  height: 30px;
+  line-height: 30px;
+  margin-left: 3px;
+  text-align: center;
+  vertical-align: middle;
+  width: 30px;
+  }
+  .footer-socials a.facebook {
+  background: none repeat scroll 0 0 #1f69b3;
+  }
+  .footer-socials a.twitter {
+  background: none repeat scroll 0 0 #43b3e5;
+  }
+  .footer-socials a.gplus {
+  background: none repeat scroll 0 0 #d84734;
+  }
+  .footer-socials a.youtube {
+  background: none repeat scroll 0 0 #df2126;
+  }
+  .ak-contact-address .socials a.pinterest {
+  background: none repeat scroll 0 0 #ff3635;
+  }
+  .footer-socials a.linkedin {
+  background: none repeat scroll 0 0 #1a7696;
+  }
+  .footer-socials .socials a.flickr {
+  background: none repeat scroll 0 0 #e1e2dd;
+  }
+  .footer-socials .socials a.vimeo {
+  background: none repeat scroll 0 0 #7fdde8;
+  }
+  .footer-socials .socials a.instagram {
+  background: none repeat scroll 0 0 #c8c5b3;
+  }
+  .footer-socials .socials a.tumblr {
+  background: #395976;
+  }
+  .footer-socials .socials a.rss {
+  background: none repeat scroll 0 0 #fbc95d;
+  }
+  .footer-socials .socials a.github {
+  background: none repeat scroll 0 0 #383838;
+  }
+  .footer-socials .socials a.stumbleupon {
+  background: none repeat scroll 0 0 #e94c29;
+  }
+  .footer-socials .socials a.skype {
+  background: none repeat scroll 0 0 #09c6ff;
+  }
+  .footer-socials .social-icons span {
+  cursor: pointer;
+  display: inline-block;
+  }
+  .footer-socials .socials i {
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden;
+  }
+  .tagcloud a{
+  font-size: 13px !important;
+  background: rgba(0,0,0,0.4);
+  padding: 8px 10px;
+  margin: 0 2px 4px 0;
+  display: inline-block; 
+  line-height: 1;
+  }
+  .sidebar .tagcloud a{
+  background: #23A38F;
+  color: #FFF;
+  }
